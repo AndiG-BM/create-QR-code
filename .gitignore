@@ -1,5 +1,8 @@
+.gitignore 
+
 # Node.js
 node_modules/
+package-lock.json
 
 # Optional npm cache directory
 .npm
@@ -7,6 +10,9 @@ node_modules/
 # VS Code
 .vscode/*
 
+
 # Temporary folders
 tmp/
 temp/
+
+.DS_Store
