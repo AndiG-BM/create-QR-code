@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# VS Code
+.vscode/*
+
+# Temporary folders
+tmp/
+temp/
