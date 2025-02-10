@@ -1,5 +1,3 @@
-.gitignore 
-
 # Node.js
 node_modules/
 package-lock.json
@@ -15,4 +13,4 @@ package-lock.json
 tmp/
 temp/
 
-.DS_Store
+**/.DS_Store
