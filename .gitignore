@@ -8,6 +8,9 @@ package-lock.json
 # VS Code
 .vscode/*
 
+# Created by application
+grcode.png
+urls.txt
 
 # Temporary folders
 tmp/
